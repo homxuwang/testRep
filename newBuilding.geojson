@@ -41,11 +41,11 @@
     {
       "type": "Feature",
       "properties": {
-        "level": 1,
+        "level": 2,
         "name": "Bird Exhibit",
         "height": 20,
         "base_height": 20,
-        "color": "orange"
+        "color": "green"
       },
       "geometry": {
         "coordinates": [
@@ -74,7 +74,7 @@
         ],
         "type": "Polygon"
       },
-      "id": "06e8fa0b3f851e3ae0e1da5fc17e111e"
+      "id": "06e8fa0b3f851e3ae0e1da5fc17e111c"
     }     
    
   ],
