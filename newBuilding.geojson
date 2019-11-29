@@ -41,8 +41,8 @@
     {
       "type": "Feature",
       "properties": {
-        "level": 2,
-        "name": "Bird Exhibit",
+        "level": 1,
+        "name": "second",
         "height": 20,
         "base_height": 20,
         "color": "green"
